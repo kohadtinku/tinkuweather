@@ -1,0 +1,23 @@
+.movie{
+    /* display: flex; */
+/* flex-direction: column; */
+    text-align: center;
+    background-color: rgb(170, 141, 141);
+    border: 1px solid black;
+    /* padding: 5px; */
+    font-weight: bold;
+    width: 20%;
+    margin-top: 5px;
+    margin-left: 3px;
+    border-radius: 15px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 14px;
+
+}
+img{
+    height: 300px;
+}

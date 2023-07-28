@@ -1,0 +1,36 @@
+
+.navbar{
+    color: rgb(240, 204, 47);
+    display: flex;
+    flex-direction: row;
+    justify-content:baseline;
+    background-color: black;
+  }
+  .navbar li{
+    list-style: none;
+    padding: 12px;
+  
+  }
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: black; */
+}
+h1{
+  color: white;
+  text-align: center;
+  background-color: rgb(224, 53, 23);
+}
+.main{
+  /* text-align: center; */
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button{
+  padding: 12px ;
+  margin: 12px;
+
+}
